@@ -1,4 +1,4 @@
-def garbase():
-  return "garbase"
+def garbage():
+  return "garbage"
 
 
