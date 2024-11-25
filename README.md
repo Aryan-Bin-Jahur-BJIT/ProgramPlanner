@@ -1,3 +1,4 @@
 # ProgramPlanner
 
-## Hello from Tanjem, Hi!!
+## System Information
+### 1) Windows 11
