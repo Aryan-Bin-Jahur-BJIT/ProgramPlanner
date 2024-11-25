@@ -1,4 +1,5 @@
 # ProgramPlanner
 
 ## System Information
-### 1) Windows 11
+dhie  
+### 1) Win Linux dows 11
