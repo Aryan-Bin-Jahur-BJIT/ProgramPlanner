@@ -1,0 +1,4 @@
+def garbage():
+  return "garbage"
+
+
